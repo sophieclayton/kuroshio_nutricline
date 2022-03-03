@@ -2,3 +2,5 @@
 /figures
 *.gdoc
 /reference
+*checkpoint.ipynb
+exploratory/.ipynb_checkpoints
