@@ -14,7 +14,7 @@ An example of an aggregate analysis of nitrate data from two BGC-Argo floats in 
 - Satellite NPP from VGMP and CGMP algorithms
 
 ### Analysis:
-- Check the data, some floats seem to have QA/QC issues with big jumps in nitrate concentrations
+- ~~Check the data, some floats seem to have QA/QC issues with big jumps in nitrate concentrations~~ Applied QA/QC usign SAGE matlab package 6/22
 - Determine nutricline from individual profiles. Which criterion should be used? Look into literature on this. - simple function based on np.interp done 
 - Determine density surface associated with nutricline. How does this vary across the region?
 - Look into estimating epsilon and kappa from the T/S profiles
